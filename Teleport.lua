@@ -29,7 +29,7 @@ local titleTxt=Instance.new("TextLabel")
 titleTxt.Size=UDim2.new(0.7,0,1,0)
 titleTxt.Position=UDim2.new(0,10,0,0)
 titleTxt.BackgroundTransparency=1
-titleTxt.Text="传送工具"
+titleTxt.Text="传送工具TG@NB1337JB"
 titleTxt.TextColor3=Color3.new(1,1,1)
 titleTxt.Font=Enum.Font.SourceSansBold
 titleTxt.TextSize=17
@@ -48,7 +48,7 @@ minBtn.BorderSizePixel=0
 Instance.new("UICorner",minBtn).CornerRadius=UDim.new(0,12)
 minBtn.Parent=title
 
-local keyBox=Instance.new("t.me/NB1337JB")
+local keyBox=Instance.new("TG@NB1337JB")
 keyBox.Size=UDim2.new(0.86,0,0,36)
 keyBox.Position=UDim2.new(0.07,0,0.30,0)
 keyBox.BackgroundColor3=Color3.new(0.22,0.22,0.28)
